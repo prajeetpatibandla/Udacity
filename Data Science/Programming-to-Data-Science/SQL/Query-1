@@ -1,0 +1,9 @@
+select l.name as Language_Name,c.name as Category_Name, count(c.name) as Count_
+from category c
+JOIN film_category fc
+on c.category_id = fc.category_id
+Join film f
+on fc.film_id = f.film_id
+Join language l
+on f.film_id = l.language_id
+group by 1,2

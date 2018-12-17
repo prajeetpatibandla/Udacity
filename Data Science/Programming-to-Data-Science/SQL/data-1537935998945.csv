@@ -1,0 +1,377 @@
+customer_name,district_name,total_amount
+Eleanor Hunt,Saint-Denis,211.55
+Karl Seal,Florida,208.58
+Marion Snyder,So Paulo,194.61
+Rhonda Kennedy,Gelderland,191.62
+Clara Shaw,Minsk,189.6
+Tommy Collazo,Esfahan,183.63
+Ana Bradley,Tennessee,167.67
+Curtis Irby,Ontario,167.62
+Marcia Dean,Southern Tagalog,166.61
+Mike Way,Tamil Nadu,162.67
+Wesley Bull,Galicia,158.65
+Gordon Allard,Hodeida,157.69
+Lena Jensen,West Bengali,154.7
+Tim Cary,Karnataka,154.66
+Warren Sherrod,Irkutsk,152.69
+Steve Mackenzie,East Java,152.68
+Brittany Riley,Sumy,151.73
+Guy Brownlee,Zhejiang,151.69
+June Carroll,Skikda,151.68
+Neil Renner,Khanh Hoa,149.69
+Tammy Sanders,Changhwa,149.61
+Tonya Chapman,Rajasthan,147.71
+Michelle Clark,Dhaka,146.68
+Jessica Hall,,146.68
+Jacqueline Long,Songkhla,146.68
+Stacey Montgomery,Jilin,146.67
+Arthur Simpkins,Adygea,145.7
+Brandon Huey,Balikesir,145.64
+Diane Collins,Khartum,144.7
+Ralph Madrigal,Arecibo,144.68
+Roger Quintanilla,Taipei,144.66
+Alex Gresham,Michoacn de Ocampo,143.68
+Ryan Salisbury,Daugavpils,142.7
+Shawn Heaton,Nakhon Sawan,142.69
+Margie Wade,Hunan,142.67
+Marsha Douglas,Sofala,142.66
+Debra Nelson,Esprito Santo,141.71
+Lori Wood,Uttar Pradesh,141.69
+Nicholas Barfield,Par,140.69
+Roy Whiting,Central,139.72
+Sherry Marshall,al-Qalyubiya,139.69
+Janice Ward,Skne ln,139.67
+Tanya Gilbert,Chollanam,138.69
+Angela Hernandez,Yamaguchi,138.65
+Wanda Patterson,Sucre,137.72
+Marilyn Ross,Oyo & Osun,137.7
+Alexander Fennell,Lombardia,137.67
+Jimmie Eggleston,Dolnoslaskie,135.72
+Ramon Choate,Chimborazo,135.7
+Morris Mccarter,Kaohsiung,135.68
+Kent Arsenault,Minas Gerais,134.73
+Alvin Deloach,Chihuahua,134.72
+Zachary Hite,Ohio,134.71
+Ella Oliver,Aden,134.7
+Sylvia Ortiz,Risaralda,134.7
+Rosemary Schmidt,Usak,134.69
+Helen Harris,Madhya Pradesh,134.68
+Elizabeth Brown,Nantou,134.65
+Stanley Scroggins,Saitama,133.71
+Bernice Willis,Batman,133.7
+Sue Peters,Jiangsu,133.68
+Jennie Terry,Severn Morava,132.72
+Jessie Milam,Shandong,132.7
+Russell Brinson,Slaskie,132.65
+Greg Robins,Nam Ha,131.74
+Karen Jackson,Osmaniye,131.73
+Ethel Webb,Gauteng,131.69
+Catherine Campbell,Moscow (City),131.69
+Linda Williams,Attika,130.76
+Priscilla Lowe,Guanajuato,130.72
+Maria Miller,Central Serbia,130.72
+Casey Mena,Tokat,130.68
+Harold Martino,Roraima,130.68
+Rosa Reynolds,California,129.72
+Jordan Archuleta,Buenos Aires,129.71
+Crystal Ford,Ha Darom,129.7
+Regina Berry,Gansu,129.68
+Roberto Vu,Ningxia,128.73
+Gladys Hamilton,Kwara & Kogi,128.71
+Glenda Frazier,Hebei,128.71
+Sara Perry,Puebla,128.7
+Alma Austin,Baden-Wrttemberg,128.69
+Bessie Morrison,Sisilia,127.73
+Miguel Betancourt,Baijeri,127.73
+Debbie Reyes,Hiroshima,127.69
+Martha Gonzalez,Chisinau,127.66
+Jeanne Lawson,Ahal,126.74
+Troy Quigley,British Colombia,126.73
+Terri Vasquez,Santa Catarina,126.73
+Jamie Rice,Michigan,126.73
+Tracy Cole,Mxico,126.72
+Grace Ellis,Nordrhein-Westfalen,126.7
+Bradley Motley,Jharkhand,125.74
+Maurice Crawley,Veracruz,125.74
+Daisy Bates,Pietari,125.72
+Janet Phillips,Antofagasta,124.74
+Elsie Kelley,Ondo & Ekiti,124.68
+John Farnsworth,Maharashtra,123.74
+Leslie Seward,Kalimantan Barat,123.72
+Shirley Allen,Southern Mindanao,123.7
+Eddie Tomlin,Northern Mindanao,122.74
+Tina Simmons,Gois,122.74
+Javier Elrod,Chari-Baguirmi,122.72
+Cathy Spencer,Gifu,122.71
+Viola Hanson,Central Visayas,122.7
+Jorge Olivares,Aceh,122.69
+Milton Howland,Andhra Pradesh,121.77
+Gilbert Sledge,England,121.73
+Lynn Payne,Lilongwe,121.73
+Barry Lovelace,Copperbelt,121.7
+Jim Rea,Sinaloa,121.7
+Nathan Runyon,St Thomas,121.69
+Rick Mattox,al-Daqahliya,120.75
+Alfred Casillas,Sawhaj,120.74
+Dana Hart,Kirov,120.74
+Marc Outlaw,Apulia,120.71
+Thelma Murray,Lima,120.7
+Alan Kahn,Sichuan,119.75
+Hector Poindexter,Stavropol,119.74
+Gertrude Castillo,Kitaa,119.72
+Charles Kowalski,Kedah,119.72
+Kathryn Coleman,Krim,118.76
+Tracy Herrmann,Loja,118.75
+Stephanie Mitchell,Yerevan,118.75
+Jaime Nettles,Huanuco,118.73
+Virginia Green,Midi-Pyrnes,118.7
+Joy George,Botosani,118.69
+Miriam Mckinney,Shiga,117.77
+Nathaniel Adam,Illinois,117.75
+Byron Box,Qaraghandy,117.72
+Joyce Edwards,Mekka,116.76
+Valerie Black,Massachusetts,116.75
+Terry Carlson,Miyazaki,116.74
+Naomi Jennings,Haryana,116.73
+Hilda Hopkins,National Capital Reg,116.73
+Kathy James,Eastern Visayas,116.72
+Gloria Cook,Tahiti,115.74
+Philip Causey,Moskova,115.71
+Veronica Stone,North Carolina,115.7
+Dianne Shelton,East Azerbaidzan,114.76
+Salvador Teel,Banjul,114.73
+Patsy Davidson,Manab,114.73
+Mary Smith,Nagasaki,114.7
+Don Bone,Nampula,113.77
+Michael Silverman,Liaoning,113.74
+Nora Herrera,Salzburg,113.74
+Amber Dixon,Ynlin,113.73
+Jeffery Pinson,Sind,113.72
+Christy Vargas,Shanxi,113.7
+Andy Vanhorn,Hidalgo,112.76
+Tyrone Asher,Ruse,112.76
+Ashley Richardson,Nebraska,112.75
+Monica Hicks,Taka-Karpatia,112.73
+Clyde Tobias,Guangdong,112.72
+Calvin Martel,Zulia,111.77
+Daryl Larue,Ninawa,111.73
+Audrey Ray,Steiermark,111.73
+Carolyn Perez,Nonthaburi,111.71
+Terrance Roush,Fejr,111.71
+Jamie Waugh,Mie,110.77
+Myrtle Fleming,Santiago,110.76
+Andre Rapp,Coquimbo,110.74
+Gina Williamson,Taizz,110.73
+Everett Banda,al-Sharqiya,110.72
+Heidi Larson,Hubei,110.68
+Fernando Churchill,Kang-won,109.77
+Isaac Oglesby,Morelos,109.76
+Charlene Alvarez,Zanzibar West,109.75
+Clifford Bowens,Tatarstan,109.73
+Randy Gaither,Kurgan,109.73
+Todd Tan,Hmelnytskyi,109.72
+Herman Devore,Mwanza,109.72
+Sonia Gregory,Edo & Delta,108.78
+Eduardo Hiatt,Inner Mongolia,108.77
+Seth Hannon,al-Manama,108.76
+Gabriel Harder,Sivas,108.75
+Raymond Mcwhorter,Sumqayit,108.75
+Julian Vest,Tokyo-to,108.73
+Minnie Romero,West Java,108.72
+Mae Fletcher,Baskimaa,107.79
+Johnnie Chisholm,Mazowieckie,107.78
+Mario Cheatham,Batna,107.73
+Darlene Rose,Pyongyang-si,107.71
+Jeff East,Puerto Plata,107.7
+Lois Butler,Brunei and Muara,107.66
+Douglas Graf,Baja California,106.77
+Marlene Welch,Fukushima,106.77
+Gail Knight,Bern,106.76
+Claudia Fuller,Hawalli,106.75
+Victoria Gibson,Central Java,106.74
+Sarah Lewis,Liepaja,106.73
+Eric Robert,Santa F,105.78
+Sam Mcduffie,Boyac,105.78
+Elaine Stevens,Smolensk,105.78
+Katie Elliott,Nyanza,105.77
+Bryan Hardison,Texas,105.76
+Jean Bell,Sarawak,105.76
+Amanda Carter,Oriental,105.74
+Diana Alexander,Georgia,105.73
+Marcus Hidalgo,Tartumaa,105.72
+Cynthia Young,Bihar,105.7
+Brent Harkins,Istanbul,104.78
+Violet Rodriquez,Kowloon and New Kowl,104.76
+Dolores Wagner,Perak,104.75
+Dale Ratcliff,North West,104.74
+Jimmy Schrader,Krasnojarsk,104.72
+Ramona Hale,Punjab,103.77
+Courtney Day,Kyonggi,103.74
+Sharon Robinson,Nothwest Border Prov,103.73
+Manuel Murrell,Northern,103.73
+Misty Lambert,Sharja,102.78
+Ben Easter,Volgograd,102.77
+Max Pitt,Vojvodina,102.77
+Lillian Griffin,Abu Dhabi,102.76
+Yolanda Weaver,Tabora,102.75
+Marie Turner,Lipetsk,101.79
+Glen Talbert,Coahuila de Zaragoza,100.77
+Vickie Brewer,Anhalt Sachsen,100.75
+Ron Deluca,Gumma,99.78
+Lisa Anderson,Kanagawa,99.77
+Evelyn Morgan,Vaduz,99.74
+Ken Prewitt,Bukarest,99.73
+Angel Barclay,Nagano,99.72
+Ruth Martinez,Northern Cape,98.82
+Clinton Buford,Colorado,98.76
+Annette Olson,Kerala,98.76
+Gwendolyn May,Osaka,98.75
+Francis Sikes,Oaxaca,98.75
+Jeremy Hurtado,Pernambuco,98.75
+Ross Grey,Central Mindanao,98.74
+Rose Howard,Cayenne,97.8
+Leon Bostic,Caquet,97.79
+Wallace Slone,Sokoto & Kebbi & Zam,97.78
+Rodney Moeller,Bauchi & Gombe,97.78
+Virgil Wofford,Guerrero,97.75
+Mabel Holland,Sagaing,97.75
+Carlos Coughlin,Gujarat,96.79
+Albert Crouse,Nord-Ouest,96.78
+Edward Baugh,Streymoyar,96.76
+Connie Wallace,Ivanovo,95.79
+Willard Lumpkin,Campeche,95.79
+Gary Coy,Henan,95.78
+Darren Windham,Toscana,95.78
+Shane Millard,Baja California Sur,95.78
+Beth Franklin,Haiphong,95.76
+Ronnie Ricketts,Ziguinchor,95.76
+Esther Crawford,Free State,95.72
+Laura Rodriguez,Rabat-Sal-Zammour-Z,94.81
+Suzanne Nichols,Jakarta Raya,94.76
+Kelly Knott,Hainan,94.76
+Geraldine Perkins,Tel Aviv,94.76
+Carmen Owens,Distrito Federal,94.75
+Edwin Burk,KwaZulu-Natal,93.8
+Claude Herzog,Benguela,93.8
+Francisco Skidmore,Rio Grande do Sul,93.79
+Dawn Sullivan,Funafuti,93.78
+Phillip Holm,Ibaragi,93.76
+Martin Bales,Namibe,93.75
+Howard Fortner,Kermanshah,93.74
+Frances Parker,Cear,92.81
+Joseph Joy,Rio de Janeiro,92.8
+Bruce Schwarz,Okinawa,92.79
+Andrea Henderson,Mahajanga,92.79
+Chester Benner,Heilongjiang,92.78
+Joel Francisco,Chuquisaca,92.78
+Elmer Noe,Battambang,92.76
+Melanie Armstrong,Caraga,92.75
+Dustin Gillette,Drenthe,92.75
+Rafael Abney,Central Luzon,91.81
+Ricardo Meador,Okayama,91.81
+Wilma Richards,Washington,91.8
+Sean Douglass,Addis Abeba,91.77
+Deanna Byrd,Cagayan Valley,90.78
+Emily Diaz,Kyongsangbuk,90.77
+Kathleen Adams,Markazi,90.75
+Beverly Brooks,Chiayi,89.78
+Benjamin Varney,Jalisco,89.78
+Andrew Purdy,Baki,89.78
+Judy Gray,Bchar,89.77
+Lillie Kim,Qina,89.77
+Edgar Rhoads,Eskisehir,89.77
+Jackie Lynch,Valle,89.77
+Darrell Power,Nova Scotia,89.76
+Lawrence Lawton,Centre,89.71
+Dora Medina,Tianjin,88.81
+Anna Hill,Piemonte,88.8
+Aaron Selby,East Kasai,88.8
+Glenn Pullen,Utrecht,88.78
+Heather Morris,Chiba,88.76
+Donna Thompson,Kalmykia,87.82
+Tara Ryan,Sulawesi Utara,87.81
+Kurt Emmons,Ishikawa,87.8
+Harvey Guajardo,Nghe An,87.8
+Derrick Bourque,Qubec,87.8
+Maureen Little,Asuncin,87.79
+Freddie Duggan,Piura,87.77
+Ruben Geary,Lubelskie,86.81
+Erica Matthews,Jiangxi,86.8
+Peggy Myers,Asir,86.77
+Constance Reid,Kaduna,86.77
+Allison Stanley,Phnom Penh,86.75
+Randall Neumann,La Romana,85.8
+Jon Wiles,La Paz,85.78
+Victor Barkley,New Hampshire,85.78
+Susan Wilson,Hamilton,85.77
+Kimberly Lee,Crdoba,85.77
+Lonnie Tirado,Sumatera Selatan,84.84
+Mathew Bolin,Carabobo,84.8
+Bonnie Hughes,Cheju,84.8
+Corey Hauser,Gaziantep,83.81
+Leslie Gordon,Kilis,83.8
+Wade Delvalle,Vaud,83.78
+Patrick Newsom,Hanoi,83.77
+Gene Sanborn,Zufar,82.76
+Vernon Chapa,Denizli,81.83
+Yvonne Watkins,Miranda,81.81
+Thomas Grigsby,Missouri,81.81
+Mark Rinehart,Tabuk,81.8
+Lorraine Stephens,Xinxiang,81.8
+Barbara Jones,Mandalay,81.78
+Jessie Banks,Haskovo,81.76
+Cory Meehan,Mogiljov,81.76
+Paul Trout,Kursk,80.85
+Oscar Aquino,Kerman,80.83
+Eileen Carr,Alto Paran,80.82
+Vivian Ruiz,Noord-Brabant,80.8
+Kristina Chambers,Gurico,80.78
+Keith Rico,Bratislava,80.77
+David Royal,Callao,79.81
+Roberta Harper,Chaharmahal va Bakht,79.8
+Jenny Castro,Ponce,79.8
+Jesse Schilling,Shaba,79.78
+Dennis Gilman,Western Cape,78.8
+Margaret Moore,Masqat,78.8
+Erika Pena,Pohjois-Pohjanmaa,78.79
+Colleen Burton,Saarland,78.78
+Luis Yanez,Bretagne,77.81
+Chris Brothers,Asturia,77.8
+Rita Graham,Provence-Alpes-Cte,77.78
+Lydia Burke,Tucumn,77.77
+Marian Mendoza,Paran,76.82
+Leah Curtis,Wielkopolskie,75.81
+Larry Thrasher,Adana,74.81
+Irene Price,Pavlodar,74.79
+April Burns,Scotland,74.77
+Toni Holt,Virginia,73.83
+Herbert Kruger,Komi,73.81
+Alicia Mills,Assam,73.81
+Lance Pemberton,Tadla-Azilal,73.8
+Enrique Forsythe,West Greece,73.78
+Gregory Mauldin,Sousse,73.78
+Robert Baughman,Kaliningrad,71.85
+Delores Hansen,Jaroslavl,71.84
+Ray Houle,Nizni Novgorod,71.8
+Billie Horton,Bursa,71.79
+Samantha Duncan,Tamaulipas,71.77
+William Satterfield,Sanaa,70.81
+Adrian Clary,Friuli-Venezia Giuli,68.82
+Terry Grissom,Shimane,68.81
+Jerome Kenyon,OHiggins,67.86
+Vera Mccoy,Kabol,67.82
+Jeanette Greene,Rostov-na-Donu,66.82
+Alberto Henning,Anzotegui,66.79
+Henry Billingsley,Tongatapu,64.84
+Jose Andrew,St George,64.82
+Juan Fraley,Tuvassia,63.79
+Felix Gaffney,Vilna,63.78
+Lauren Hudson,Pays de la Loire,59.83
+Jill Hawkins,North Austria,58.83
+Annie Russell,Tete,58.82
+Katherine Rivera,Basel-Stadt,57.87
+Sheila Wells,Ktahya,57.86
+Johnny Turpin,al-Qadarif,57.81
+Anthony Schwab,Tutuila,47.85
+Leona Obrien,Fujian,32.9
+Brian Wyman,Kujawsko-Pomorskie,27.93

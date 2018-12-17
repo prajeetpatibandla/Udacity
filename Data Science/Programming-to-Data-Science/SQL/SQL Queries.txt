@@ -1,0 +1,78 @@
+/*Query-1*/
+
+SELECT
+  DATE_TRUNC('day', r.rental_date) AS rental_day,
+  s.store_id,
+  COUNT(*) AS rental_count
+FROM rental r
+JOIN staff s
+  ON r.staff_id = s.staff_id
+GROUP BY 1,2
+ORDER BY 1
+
+/*Query-2*/
+SELECT
+  store_id,
+  AVG(rental_count) AS avg_rental_count
+FROM (SELECT
+  DATE_TRUNC('day', r.rental_date) AS rental_day,
+  s.store_id,
+  COUNT(*) AS rental_count
+FROM rental r
+JOIN staff s
+  ON r.staff_id = s.staff_id
+GROUP BY 1,
+         2) sub
+GROUP BY 1
+ORDER BY 2 DESC
+
+/*Query-3*/
+SELECT
+  t3.customer_name,
+  t3.district_name,
+  t3.total_amount
+FROM (SELECT
+  district_name,
+  MAX(total_amount) AS total_amount
+FROM (SELECT
+  c.first_name first_name,
+  c.last_name last_name,
+  CONCAT(c.first_name, ' ', c.last_name) AS customer_name,
+  a.district district_name,
+  SUM(p.amount) AS total_amount
+FROM customer c
+JOIN payment p
+  ON p.customer_id = c.customer_id
+JOIN address a
+  ON c.address_id = a.address_id
+GROUP BY 1,
+         2,
+         4) t1
+GROUP BY 1) t2
+JOIN (SELECT
+  c.first_name first_name,
+  c.last_name last_name,
+  CONCAT(c.first_name, ' ', c.last_name) AS customer_name,
+  a.district district_name,
+  SUM(p.amount) AS total_amount
+FROM customer c
+JOIN payment p
+  ON p.customer_id = c.customer_id
+JOIN address a
+  ON c.address_id = a.address_id
+GROUP BY 1,
+         2,
+         4
+ORDER BY 5 DESC) t3
+  ON t3.district_name = t2.district_name
+  AND t3.total_amount = t2.total_amount
+
+/*Query-4*/
+SELECT
+  f.film_id,
+  f.title,
+  f.release_year,
+  f.rating,
+  RANK() OVER (PARTITION BY release_year ORDER BY rating DESC) AS year_rank
+FROM film f
+ORDER BY 1
